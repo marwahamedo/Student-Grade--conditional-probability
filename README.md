@@ -1,5 +1,5 @@
 # conditional-probability
-to calculate the probability a student gets an A (80%+) in math, given they miss 10 or more classes.
+This code calculate the probability a student gets an A (80%+) in math, given they miss 10 or more classes.
 
 In probability theory, conditional probability is a measure of the probability of an event occurring given that another event has 
 (by assumption, presumption, assertion or evidence) occurred.
